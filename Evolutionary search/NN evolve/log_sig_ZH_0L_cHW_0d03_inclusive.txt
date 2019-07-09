@@ -1,0 +1,126 @@
+02/13/2019 06:48:29 PM - INFO - ***Evolving 10 generations with population 20***
+02/13/2019 06:48:29 PM - INFO - ***Doing generation 1 of 10***
+02/13/2019 06:49:50 PM - INFO - Generation average: 0.12%
+02/13/2019 06:49:50 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 06:49:50 PM - INFO - ***Doing generation 2 of 10***
+02/13/2019 06:50:46 PM - INFO - Generation average: 0.13%
+02/13/2019 06:50:46 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 06:50:46 PM - INFO - ***Doing generation 3 of 10***
+02/13/2019 06:51:20 PM - INFO - Generation average: 0.18%
+02/13/2019 06:51:20 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 06:51:20 PM - INFO - ***Doing generation 4 of 10***
+02/13/2019 06:52:02 PM - INFO - Generation average: 0.22%
+02/13/2019 06:52:02 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 06:52:02 PM - INFO - ***Doing generation 5 of 10***
+02/13/2019 06:52:59 PM - INFO - Generation average: 0.23%
+02/13/2019 06:52:59 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 06:52:59 PM - INFO - ***Doing generation 6 of 10***
+02/13/2019 06:54:02 PM - INFO - Generation average: 0.25%
+02/13/2019 06:54:02 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 06:54:02 PM - INFO - ***Doing generation 7 of 10***
+02/13/2019 06:55:24 PM - INFO - Generation average: 0.26%
+02/13/2019 06:55:24 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 06:55:24 PM - INFO - ***Doing generation 8 of 10***
+02/13/2019 06:56:34 PM - INFO - Generation average: 0.26%
+02/13/2019 06:56:34 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 06:56:34 PM - INFO - ***Doing generation 9 of 10***
+02/13/2019 06:58:00 PM - INFO - Generation average: 0.27%
+02/13/2019 06:58:00 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 06:58:00 PM - INFO - ***Doing generation 10 of 10***
+02/13/2019 07:00:03 PM - INFO - Generation average: 0.26%
+02/13/2019 07:00:03 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 07:00:03 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 07:00:03 PM - INFO - {'nb_neurons': 128, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+02/13/2019 07:00:03 PM - INFO - Network accuracy: 0.39%
+02/13/2019 07:00:03 PM - INFO - {'nb_neurons': 1, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+02/13/2019 07:00:03 PM - INFO - Network accuracy: 0.37%
+02/13/2019 07:00:03 PM - INFO - {'nb_neurons': 128, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+02/13/2019 07:00:03 PM - INFO - Network accuracy: 0.36%
+02/13/2019 07:00:03 PM - INFO - {'nb_neurons': 1, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+02/13/2019 07:00:03 PM - INFO - Network accuracy: 0.34%
+02/13/2019 07:00:03 PM - INFO - {'nb_neurons': 1, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+02/13/2019 07:00:03 PM - INFO - Network accuracy: 0.33%
+02/13/2019 07:07:52 PM - INFO - ***Evolving 10 generations with population 20***
+02/13/2019 07:07:52 PM - INFO - ***Doing generation 1 of 10***
+02/13/2019 07:08:59 PM - INFO - Generation average: 0.13%
+02/13/2019 07:08:59 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 07:08:59 PM - INFO - ***Doing generation 2 of 10***
+02/13/2019 07:09:37 PM - INFO - Generation average: 0.14%
+02/13/2019 07:09:37 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 07:09:37 PM - INFO - ***Doing generation 3 of 10***
+02/13/2019 07:10:30 PM - INFO - Generation average: 0.18%
+02/13/2019 07:10:30 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 07:10:30 PM - INFO - ***Doing generation 4 of 10***
+02/13/2019 07:11:36 PM - INFO - Generation average: 0.20%
+02/13/2019 07:11:36 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 07:11:36 PM - INFO - ***Doing generation 5 of 10***
+02/13/2019 07:12:38 PM - INFO - Generation average: 0.22%
+02/13/2019 07:12:38 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 07:12:38 PM - INFO - ***Doing generation 6 of 10***
+02/13/2019 07:13:44 PM - INFO - Generation average: 0.23%
+02/13/2019 07:13:44 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 07:13:44 PM - INFO - ***Doing generation 7 of 10***
+02/13/2019 07:14:37 PM - INFO - Generation average: 0.22%
+02/13/2019 07:14:37 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 07:14:37 PM - INFO - ***Doing generation 8 of 10***
+02/13/2019 07:15:57 PM - INFO - Generation average: 0.24%
+02/13/2019 07:15:57 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 07:15:57 PM - INFO - ***Doing generation 9 of 10***
+02/13/2019 07:17:26 PM - INFO - Generation average: 0.24%
+02/13/2019 07:17:26 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 07:17:26 PM - INFO - ***Doing generation 10 of 10***
+02/13/2019 07:18:59 PM - INFO - Generation average: 0.22%
+02/13/2019 07:18:59 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 07:18:59 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 07:18:59 PM - INFO - {'nb_neurons': 256, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+02/13/2019 07:18:59 PM - INFO - Network accuracy: 0.37%
+02/13/2019 07:18:59 PM - INFO - {'nb_neurons': 256, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+02/13/2019 07:18:59 PM - INFO - Network accuracy: 0.32%
+02/13/2019 07:18:59 PM - INFO - {'nb_neurons': 256, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+02/13/2019 07:18:59 PM - INFO - Network accuracy: 0.30%
+02/13/2019 07:18:59 PM - INFO - {'nb_neurons': 256, 'nb_layers': 1, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+02/13/2019 07:18:59 PM - INFO - Network accuracy: 0.28%
+02/13/2019 07:18:59 PM - INFO - {'nb_neurons': 256, 'nb_layers': 3, 'activation': 'sigmoid', 'optimizer': 'sgd'}
+02/13/2019 07:18:59 PM - INFO - Network accuracy: 0.28%
+02/13/2019 09:02:37 PM - INFO - ***Evolving 10 generations with population 20***
+02/13/2019 09:02:37 PM - INFO - ***Doing generation 1 of 10***
+02/13/2019 09:04:11 PM - INFO - Generation average: 50.03%
+02/13/2019 09:04:11 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 09:04:11 PM - INFO - ***Doing generation 2 of 10***
+02/13/2019 09:04:59 PM - INFO - Generation average: 49.99%
+02/13/2019 09:04:59 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 09:04:59 PM - INFO - ***Doing generation 3 of 10***
+02/13/2019 09:05:51 PM - INFO - Generation average: 50.53%
+02/13/2019 09:05:51 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 09:05:51 PM - INFO - ***Doing generation 4 of 10***
+02/13/2019 09:06:31 PM - INFO - Generation average: 50.61%
+02/13/2019 09:06:31 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 09:06:31 PM - INFO - ***Doing generation 5 of 10***
+02/13/2019 09:07:17 PM - INFO - Generation average: 50.91%
+02/13/2019 09:07:17 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 09:07:17 PM - INFO - ***Doing generation 6 of 10***
+02/13/2019 09:08:12 PM - INFO - Generation average: 51.08%
+02/13/2019 09:08:12 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 09:08:12 PM - INFO - ***Doing generation 7 of 10***
+02/13/2019 09:09:26 PM - INFO - Generation average: 51.88%
+02/13/2019 09:09:26 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 09:09:26 PM - INFO - ***Doing generation 8 of 10***
+02/13/2019 09:10:37 PM - INFO - Generation average: 52.31%
+02/13/2019 09:10:37 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 09:10:37 PM - INFO - ***Doing generation 9 of 10***
+02/13/2019 09:12:07 PM - INFO - Generation average: 53.18%
+02/13/2019 09:12:07 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 09:12:07 PM - INFO - ***Doing generation 10 of 10***
+02/13/2019 09:13:55 PM - INFO - Generation average: 52.17%
+02/13/2019 09:13:55 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 09:13:55 PM - INFO - --------------------------------------------------------------------------------
+02/13/2019 09:13:55 PM - INFO - {'nb_neurons': 512, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'sgd'}
+02/13/2019 09:13:55 PM - INFO - Network accuracy: 60.87%
+02/13/2019 09:13:55 PM - INFO - {'nb_neurons': 512, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'sgd'}
+02/13/2019 09:13:55 PM - INFO - Network accuracy: 57.28%
+02/13/2019 09:13:55 PM - INFO - {'nb_neurons': 512, 'nb_layers': 3, 'activation': 'elu', 'optimizer': 'sgd'}
+02/13/2019 09:13:55 PM - INFO - Network accuracy: 57.14%
+02/13/2019 09:13:55 PM - INFO - {'nb_neurons': 32, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'sgd'}
+02/13/2019 09:13:55 PM - INFO - Network accuracy: 56.25%
+02/13/2019 09:13:55 PM - INFO - {'nb_neurons': 512, 'nb_layers': 1, 'activation': 'elu', 'optimizer': 'sgd'}
+02/13/2019 09:13:55 PM - INFO - Network accuracy: 55.78%

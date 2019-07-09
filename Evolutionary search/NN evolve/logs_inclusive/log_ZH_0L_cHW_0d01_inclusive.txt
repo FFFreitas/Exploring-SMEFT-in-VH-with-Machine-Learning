@@ -1,0 +1,42 @@
+01/30/2019 12:23:47 PM - INFO - ***Evolving 10 generations with population 20***
+01/30/2019 12:23:47 PM - INFO - ***Doing generation 1 of 10***
+01/30/2019 12:30:53 PM - INFO - Generation average: 57.70%
+01/30/2019 12:30:53 PM - INFO - --------------------------------------------------------------------------------
+01/30/2019 12:30:53 PM - INFO - ***Doing generation 2 of 10***
+01/30/2019 12:35:09 PM - INFO - Generation average: 58.27%
+01/30/2019 12:35:09 PM - INFO - --------------------------------------------------------------------------------
+01/30/2019 12:35:09 PM - INFO - ***Doing generation 3 of 10***
+01/30/2019 12:38:23 PM - INFO - Generation average: 57.84%
+01/30/2019 12:38:23 PM - INFO - --------------------------------------------------------------------------------
+01/30/2019 12:38:23 PM - INFO - ***Doing generation 4 of 10***
+01/30/2019 12:42:36 PM - INFO - Generation average: 58.26%
+01/30/2019 12:42:36 PM - INFO - --------------------------------------------------------------------------------
+01/30/2019 12:42:36 PM - INFO - ***Doing generation 5 of 10***
+01/30/2019 12:47:34 PM - INFO - Generation average: 58.25%
+01/30/2019 12:47:34 PM - INFO - --------------------------------------------------------------------------------
+01/30/2019 12:47:34 PM - INFO - ***Doing generation 6 of 10***
+01/30/2019 12:53:17 PM - INFO - Generation average: 58.34%
+01/30/2019 12:53:17 PM - INFO - --------------------------------------------------------------------------------
+01/30/2019 12:53:17 PM - INFO - ***Doing generation 7 of 10***
+01/30/2019 12:57:37 PM - INFO - Generation average: 58.26%
+01/30/2019 12:57:37 PM - INFO - --------------------------------------------------------------------------------
+01/30/2019 12:57:37 PM - INFO - ***Doing generation 8 of 10***
+01/30/2019 01:03:00 PM - INFO - Generation average: 58.31%
+01/30/2019 01:03:00 PM - INFO - --------------------------------------------------------------------------------
+01/30/2019 01:03:00 PM - INFO - ***Doing generation 9 of 10***
+01/30/2019 01:08:15 PM - INFO - Generation average: 58.28%
+01/30/2019 01:08:15 PM - INFO - --------------------------------------------------------------------------------
+01/30/2019 01:08:15 PM - INFO - ***Doing generation 10 of 10***
+01/30/2019 01:13:42 PM - INFO - Generation average: 58.29%
+01/30/2019 01:13:42 PM - INFO - --------------------------------------------------------------------------------
+01/30/2019 01:13:42 PM - INFO - --------------------------------------------------------------------------------
+01/30/2019 01:13:42 PM - INFO - {'nb_neurons': 256, 'nb_layers': 4, 'activation': 'sigmoid', 'optimizer': 'adamax'}
+01/30/2019 01:13:42 PM - INFO - Network accuracy: 58.43%
+01/30/2019 01:13:42 PM - INFO - {'nb_neurons': 128, 'nb_layers': 2, 'activation': 'sigmoid', 'optimizer': 'adamax'}
+01/30/2019 01:13:42 PM - INFO - Network accuracy: 58.38%
+01/30/2019 01:13:42 PM - INFO - {'nb_neurons': 128, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'adagrad'}
+01/30/2019 01:13:42 PM - INFO - Network accuracy: 58.38%
+01/30/2019 01:13:42 PM - INFO - {'nb_neurons': 128, 'nb_layers': 2, 'activation': 'elu', 'optimizer': 'adam'}
+01/30/2019 01:13:42 PM - INFO - Network accuracy: 58.38%
+01/30/2019 01:13:42 PM - INFO - {'nb_neurons': 128, 'nb_layers': 4, 'activation': 'elu', 'optimizer': 'adamax'}
+01/30/2019 01:13:42 PM - INFO - Network accuracy: 58.37%
